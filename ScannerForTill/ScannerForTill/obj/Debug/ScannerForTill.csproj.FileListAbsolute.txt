@@ -1,0 +1,6 @@
+D:\Sneghka\Visual Studio\ScannerForTill\ScannerForTill\bin\Debug\ScannerForTill.exe.config
+D:\Sneghka\Visual Studio\ScannerForTill\ScannerForTill\bin\Debug\ScannerForTill.exe
+D:\Sneghka\Visual Studio\ScannerForTill\ScannerForTill\bin\Debug\ScannerForTill.pdb
+D:\Sneghka\Visual Studio\ScannerForTill\ScannerForTill\obj\Debug\ScannerForTill.csprojResolveAssemblyReference.cache
+D:\Sneghka\Visual Studio\ScannerForTill\ScannerForTill\obj\Debug\ScannerForTill.exe
+D:\Sneghka\Visual Studio\ScannerForTill\ScannerForTill\obj\Debug\ScannerForTill.pdb
