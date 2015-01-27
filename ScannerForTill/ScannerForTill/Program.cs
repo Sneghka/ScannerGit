@@ -13,6 +13,7 @@ namespace ScannerForTill
     {
         static void Main(string[] args)
         {
+            // ПРОВЕРКА
             Console.WriteLine("Enter a bill");
             string bill = Console.ReadLine();
             var priceList = new PriceList(@"D:\Sneghka\Visual Studio\Block 4\ScannerForTill\PriceList.txt");
